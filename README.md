@@ -1,2 +1,2 @@
 # School_District_Analysis
-Data Analysis for PyCity Schools on grades and scores
+Replace ninth-grade reading and math scores and repeat the school district analysis
