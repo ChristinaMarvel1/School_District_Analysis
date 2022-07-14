@@ -88,3 +88,17 @@ Next, complete the following steps for school district analysis using the remain
  - The average reading score for each grade level from each school
  - The scores by school spending per student, by school size, and by school type
 
+# Deliverable 3: A Written Report for the School District Analysis
+1.	Overview of the school district analysis: Explain the purpose of this analysis.
+
+The purpose of this analysis was to see any evidence of academic dishonesty specifically in reading and math grades for Thomas High School ninth graders, which appear to have been altered. In this study, we replaced the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once we replaced the math and reading scores, we repeated the school district analysis.
+
+The district went from 65% of overall passing to 54%.
+
+![image](https://user-images.githubusercontent.com/107659667/179090394-dfa804ba-b94f-4c86-9edf-ccc94d4fcf6a.png)
+
+![image](https://user-images.githubusercontent.com/107659667/179090420-e8f3d4c7-6d4d-46fc-a698-83054100bbb0.png)
+
+The school summary was affected by decreasing the average passing rate of Thomas High school. They went from ranking 2nd in the district to 13th. Overall, the spending limits were increased and the passing rates of the ninth graders (and subsequently the district) was decreased.
+
+
